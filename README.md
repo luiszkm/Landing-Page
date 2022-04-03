@@ -1,5 +1,5 @@
-# Leanding-Page
-Leanding Page made only with HTML and CSS. (Leanding Page feita apenas com HTML e CSS)
+# Landing-Page
+Landing Page made only with HTML and CSS. (Landing Page feita apenas com HTML e CSS)
  <h1 align="center"> 
   <img alt="Leanding Page Gif" title="#shift_alt" src="./assets/leading.gif" />
 </h1>
