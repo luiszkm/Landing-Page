@@ -4,18 +4,7 @@ Leanding Page made only with HTML and CSS. (Leanding Page feita apenas com HTML 
   <img alt="Leanding Page Gif" title="#shift_alt" src="./assets/leading.gif" />
 </h1>
 
-<p>Click e confira todo o projeto </p> <a href="https://luiszkm.github.io/Leanding-Page/" target="_blank"><button style= "@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
-
-body {
-	background: #170F1E;
-	display: grid;
-	height: 100vh;
-	place-items: center;
-	-webkit-font-smoothing: antialiased;
-	width: 100vw;
-}
-
-button {
+<p>Click e confira todo o projeto </p> <a href="https://luiszkm.github.io/Leanding-Page/" target="_blank"><button style= "
   animation: 1.5s ease infinite alternate running shimmer;
   background: linear-gradient(90deg, #FFE27D 0%, #64E3FF 30%, #9192FF 85%);
   background-size: 200% 100%;
@@ -33,36 +22,7 @@ button {
   position: relative;
   text-decoration: none;
   transition: 0.2s;
-  
-  svg {
-    left: -20px;
-    opacity: 0.5;
-    position: absolute;
-    top: -2px;
-    transition: 0.5s cubic-bezier(.5,-0.5,.5,1.5);
-  }
-  
-  &:hover svg {
-    opacity: 0.8;
-    transform: translateX(50px) scale(1.5);
-  }
-  
-  &:hover {
-    transform: rotate(-3deg);
-  }
-  
-  &:active {
-    transform: scale(0.95) rotate(-3deg);
-  }
-
-}
-
-@keyframes shimmer {
-  to {
-    background-size: 100% 100%;
-    box-shadow: -2px -2px 6px rgba(255, 227, 126, 0.5), 2px 2px 6px rgba(144, 148, 255, 0.5);
-  }
-}>"
+  "
   Click me
   <svg width="79" height="46" viewBox="0 0 79 46" fill="none" xmlns="http://www.w3.org/2000/svg">
   <g filter="url(#filter0_f_618_1123)">
