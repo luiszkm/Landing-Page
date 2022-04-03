@@ -4,7 +4,7 @@ Leanding Page made only with HTML and CSS. (Leanding Page feita apenas com HTML 
   <img alt="Leanding Page Gif" title="#shift_alt" src="./assets/leading.gif" />
 </h1>
 
-<p>Click e confira todo o projeto </p> <a href="https://luiszkm.github.io/Leanding-Page/" target="_blank"><button style:@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+<p>Click e confira todo o projeto </p> <a href="https://luiszkm.github.io/Leanding-Page/" target="_blank"><button style= "@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
 body {
 	background: #170F1E;
@@ -62,7 +62,7 @@ button {
     background-size: 100% 100%;
     box-shadow: -2px -2px 6px rgba(255, 227, 126, 0.5), 2px 2px 6px rgba(144, 148, 255, 0.5);
   }
-}>
+}>"
   Click me
   <svg width="79" height="46" viewBox="0 0 79 46" fill="none" xmlns="http://www.w3.org/2000/svg">
   <g filter="url(#filter0_f_618_1123)">
