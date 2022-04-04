@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Raleway&family=Righteous&family=Roboto+Slab:wght@100&family=Sarala:wght@400;700&display=swap');
+html{
+    scroll-behavior: smooth;
+}
 *{
     margin: 0px;
     padding: 0px;
